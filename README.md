@@ -28,8 +28,35 @@ Task2.py,
 README.md (contains program description and usage instructions)
 
 ✅ Testing
-
-All programs have been tested for valid and invalid inputs to ensure correct functionality.
+All programs have been tested for valid and invalid inputs to ensure correct functionality.  
 
 
 _______________________________________________________________________________________________________________________________________________
+
+
+📂Assignment 2 :-
+
+🔥 Assignment 2 – Module 3: Control Structures in Python
+
+📘 Description
+This includes two Python programs developed as part of the Tutedude Python Course – Module 3 (Control Structures) assignment.
+
+🧩 Task 1: Check if a Number is Even or Odd
+Takes an integer input from the user.
+Uses an if-else statement to check if the number is even or odd.
+Displays an appropriate message based on the result.
+
+🔢 Task 2: Sum of Integers from 1 to 50 Using a Loop
+Uses a for loop to iterate from 1 to 50.
+Calculates the sum of all integers in this range.
+Prints the final sum clearly on the screen.
+
+🗂️ Files Included
+Task1.py,
+Task2.py,
+README.md (contains program description and usage instructions)
+
+✅ Testing
+All programs have been tested for valid and invalid inputs to ensure correct functionality.  
+
+________________________________________________________________________________________________________________________________________________
