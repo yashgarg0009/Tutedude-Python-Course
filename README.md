@@ -8,7 +8,9 @@ ________________________________________________________________________________
 📂Assignment 1 :-
 
 🔥 Assignment 1 – Module 2: Basic Python Concepts
-📘 Description
+
+📘 Description :
+
 This includes two Python programs developed as part of the Tutedude Python Course – Module 2 (Basic Concepts) assignment.
 
 🧮 Task 1: Basic Mathematical Operations
@@ -38,7 +40,8 @@ ________________________________________________________________________________
 
 🔥 Assignment 2 – Module 3: Control Structures in Python
 
-📘 Description
+📘 Description : 
+
 This includes two Python programs developed as part of the Tutedude Python Course – Module 3 (Control Structures) assignment.
 
 🧩 Task 1: Check if a Number is Even or Odd
