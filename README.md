@@ -90,3 +90,31 @@ README.md (contains program description and usage instructions)
 
 ✅ Testing : 
 All programs have been tested for valid and invalid inputs to ensure correct functionality.
+
+_________________________________________________________________________________________________________________________________________________
+📂Assignment 4 :-
+
+🔥 Assignment 4 – Module 5: Files, Exceptions, and Errors in Python
+
+📘 Description
+This includes two Python programs developed as part of the Tutedude Python Course – Module 5 (Files, Exceptions & Error Handling) assignment.
+
+🗃️ Task 1: Read a File and Handle Errors
+Opens and reads a text file named sample.txt.
+Prints its content line by line.
+Handles errors gracefully if the file does not exist.
+
+📝 Task 2: Write and Append Data to a File
+Takes user input and writes it to a file named output.txt.
+Appends additional data to the same file.
+Reads and displays the final content of the file.
+
+🗂️ Files Included :-
+Task1.py,
+
+Task2.py,
+
+README.md (contains program description and usage instructions)
+
+✅ Testing :
+All programs have been tested for valid and invalid inputs to ensure correct functionality.
